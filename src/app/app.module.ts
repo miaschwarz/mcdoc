@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+import { HomeComponent } from './home/home.component';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
@@ -14,6 +15,7 @@ import { TechnologiesComponent } from './technologies/technologies.component';
 
 @NgModule({
   declarations: [
+    HomeComponent,
     AppComponent,
     HeaderComponent,
     GoalComponent,
