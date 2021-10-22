@@ -1,0 +1,50 @@
+.navbar {
+    background-color: #ffffff;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 100%;
+    font-weight: 400;
+    padding-left: 15px;
+}
+
+.navbar-toggler {
+    background: #DDDDDD;
+    margin: 10px;
+}
+
+.bg-primary {
+    background-color: white !important;
+}
+
+.navbar-header {
+    float: left;
+    padding: 1%;
+    width: 100%;
+    font-family: 'Cormorant Garamond', serif;
+    letter-spacing: 1.5px;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#links {
+    font-family: 'Cormorant Garamond', serif;
+    letter-spacing: 2px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+#mainNavbar .nav-link {
+    color: #000000;
+    width: 200%;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #000000;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
