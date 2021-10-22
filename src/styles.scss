@@ -1,2 +1,20 @@
 @import 'variables';
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+h1 {
+    padding-top: 82px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: Georgia; 
+    letter-spacing: 1.5px;
+}
+
+p {
+    font-family: Georgia; 
+    letter-spacing: .4px;
+}
+
+ul {
+    font-family: Georgia; 
+    letter-spacing: .4px;
+}
